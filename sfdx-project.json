@@ -1,0 +1,15 @@
+{
+  "packageDirectories": [
+    {
+      "path": "h10-core",
+      "default": true
+    },
+    {
+      "path": "h10-utils"
+    }
+  ],
+  "name": "h10-toolbox",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "55.0"
+}

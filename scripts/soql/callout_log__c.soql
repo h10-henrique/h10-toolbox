@@ -1,0 +1,3 @@
+SELECT CreatedDate, Id, Endpoint__c, Method__c, Response_Status_Code__c, Callout_Time__c , Related_To__c
+  FROM Callout_Log__c
+ ORDER BY CreatedDate DESC
